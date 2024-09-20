@@ -4,7 +4,7 @@ ashudhopte123@gmail.com
 linkedin.com/in/ashutosh-dhopte
 github.com/ashudhopte
 
-# Summary
+## Summary
 Computer science graduate with 3.5 years of experience in full-stack development in Java and HTML/CSS/JS, SQL, bash script-
 ing, Rabbit MQ, WebSocket, and Android development, seeking internship opportunities for Summer 2025.
 
