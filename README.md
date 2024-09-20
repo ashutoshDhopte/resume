@@ -1,4 +1,4 @@
-#Ashutosh Dhopte
+**Ashutosh Dhopte**
 ashudhopte123@gmail.com | (480)913-9244 | linkedin.com/in/ashutosh-dhopte | github.com/ashudhopte
 
 **Summary**
