@@ -62,7 +62,7 @@ to client.
 • An Android application with Firebase Database for signup, login, and real-time database.  
 • It is a platform to bridge local artists to buyers. The exhibitors can demonstrate art via an online exhibition.  
 
-## Co-Curricular activities**
+## Co-Curricular activities
 • Served as a Member of the Technical Festival Prajwalan Core Committee for 2016 and 2017, to learn management and
 organizing skills.  
 • Served as a Training and Placement Cell coordinator for 2019-20, to create a network with industry experts.
