@@ -1,5 +1,5 @@
 # Ashutosh Dhopte
-ashudhopte123@gmail.com
+ashudhopte123@gmail.com <br/>
 (480)913-9244
 linkedin.com/in/ashutosh-dhopte
 github.com/ashudhopte
@@ -8,7 +8,7 @@ github.com/ashudhopte
 Computer science graduate with 3.5 years of experience in full-stack development in Java and HTML/CSS/JS, SQL, bash script-
 ing, Rabbit MQ, WebSocket, and Android development, seeking internship opportunities for Summer 2025.
 
-# Education
+## Education
 
 **M.S. Computer Science Expected Apr 2026**
 Arizona State University (ASU), Tempe, AZ
@@ -16,13 +16,13 @@ Arizona State University (ASU), Tempe, AZ
 **B.Tech. Information Technology Oct 2020**
 Government College of Engineering, Amravati (GCOEA), MH, India 3.03 GPA
 
-# Technical Skills
+## Technical Skills
 **Programming Languages**: Java, JavaScript, jQuery, Kotlin, Bash
 **Front-end**: HTML, CSS
 **Tools, Databases, and OS**: Spring MVC, Spring Boot, Jetpack Compose, Jupyter Notebook, MySQL, PostgreSQL, PL/SQL, Git,
 MacOS, Linux
 
-# Experience
+## Experience
 
 **MEDNET Labs: Development Module Lead Sep 2021 - Aug 2024**
 • Developed Finance and Pharmacy modules as a lead programmer.
@@ -39,7 +39,7 @@ with the Sysadmin team.
 • Developed an e-commerce Android app for explosive items and materials.
 • Extensively exercised on a Spring Boot application and efficient APIs.
 
-# Projects
+## Projects
 
 **Context Monitoring App, Academic Project (ASU)**
 • Android app to monitor Heart and Respiratory rate.
@@ -57,7 +57,7 @@ to client.
 • An Android application with Firebase Database for signup, login, and real-time database.
 • It is a platform to bridge local artists to buyers. The exhibitors can demonstrate art via an online exhibition.
 
-# Co-Curricular activities**
+## Co-Curricular activities**
 • Served as a Member of the Technical Festival Prajwalan Core Committee for 2016 and 2017, to learn management and
 organizing skills.
 • Served as a Training and Placement Cell coordinator for 2019-20, to create a network with industry experts.
