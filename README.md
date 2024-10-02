@@ -46,6 +46,13 @@ Jan 2021 - Aug 2021
 
 ## Projects
 
+**Glance Guide, Hackathon (sunhacks 2024 | Winner of Best Accessibility Hack category)**  
+https://devpost.com/software/glance-guide  
+• Desktop application for controlling the cursor using eye movements.  
+• Utilizes open-source libraries: OpenCV, Tkinter, and MediaPipe.  
+• Tracks iris movements for cursor navigation, with left eye blinks for clicks and right eye gestures for scrolling.   
+• Designed to empower users regardless of physical abilities.    
+
 **Context Monitoring App, Academic Project (ASU)**  
 • Android app to monitor Heart and Respiratory rate.  
 • It took a live video of a finger in front of the flashlight to measure the heart rate using its color.  
@@ -61,6 +68,9 @@ to client.
 **Online Exhibition and Auction Platform, Academic Project (GCOEA)**  
 • An Android application with Firebase Database for signup, login, and real-time database.  
 • It is a platform to bridge local artists to buyers. The exhibitors can demonstrate art via an online exhibition.  
+
+## Achievements
+• Winner of Best Accessibility Hack category in the sunhacks 2024 Hackathon.
 
 ## Co-Curricular activities
 • Served as a Member of the Technical Festival Prajwalan Core Committee for 2016 and 2017, to learn management and
